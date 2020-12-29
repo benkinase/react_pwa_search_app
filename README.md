@@ -1,5 +1,5 @@
 
-The ravenous search application is one of the project I acompleted in the Codecademy Web development track. It is currently fully functional. I may integrate more features in the future.
+A fully functional business search progressive webapplication. Built with react, integrating google places and yelp API.
 
 
 
