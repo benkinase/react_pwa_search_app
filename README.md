@@ -1,5 +1,5 @@
 
-A fully functional business search progressive webapplication. Built with react, integrating google places and yelp API.
+A fully functional business search progressive web application. Built with react, integrating google places and yelp API.
 
 
 
